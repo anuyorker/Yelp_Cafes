@@ -1,9 +1,7 @@
 '''
-Authors: Anurag Prasad (anuragp1@bu.edU), Jarrod Lewis (jl101995@bu.edu)
-File:    corenlp.py
-Purpose: Wrapper to implement Stanford's CoreNLP library and to perform
+Wrapper to implement Stanford's CoreNLP library and to perform
          sentiment analysis using Sentiment Treebank approach.
-Comments: Modified version of the code at [https://github.com/smilli/py-corenlp]
+         Modified version of the code at [https://github.com/smilli/py-corenlp]
 '''
 
 import json, requests
