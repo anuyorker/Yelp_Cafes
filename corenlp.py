@@ -1,7 +1,7 @@
 '''
 Wrapper to implement Stanford's CoreNLP library and to perform
-         sentiment analysis using Sentiment Treebank approach.
-         Modified version of the code at [https://github.com/smilli/py-corenlp]
+sentiment analysis using Sentiment Treebank approach.
+Modified version of the code at [https://github.com/smilli/py-corenlp]
 '''
 
 import json, requests
