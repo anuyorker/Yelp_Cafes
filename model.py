@@ -1,7 +1,5 @@
 '''
-Authors: Anurag Prasad (anuragp1@bu.edU), Jarrod Lewis (jl101995@bu.edu)
-File:    model.py
-Purpose: Trains LDA model using Yelp dataset reviews of cafes
+Trains LDA model using Yelp dataset reviews of cafes
 '''
 
 from bs4 import BeautifulSoup
