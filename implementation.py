@@ -1,11 +1,9 @@
 '''
-Authors: Anurag Prasad (anuragp1@bu.edU), Jarrod Lewis (jl101995@bu.edu)
-File:    implementation.py
-Purpose: Implements LDA model and generates recommendations for cafes
-		 based on topic weight, sentiment score, and star rating. Also
-		 incorporates regression to analyze the relationship between
-		 star rating and sentiment score, and to predict star rating
-		 from sentiment score for an unseen review.
+Implements LDA model and generates recommendations for cafes
+based on topic weight, sentiment score, and star rating. Also
+incorporates regression to analyze the relationship between
+star rating and sentiment score, and to predict star rating
+from sentiment score for an unseen review.
 '''
 
 from bs4 import BeautifulSoup
